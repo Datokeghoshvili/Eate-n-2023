@@ -1,11 +1,11 @@
 # React + TypeScript + Vite
 # Eat-N
 
-Eat-N is a modern web application built with **React 19** and **Vite**. It is designed for seamless and high-performance user experiences. The project follows best practices in TypeScript, ESLint, and React development.
+Eat-N is a modern web application built with **React 18** and **Vite**. It is designed for seamless and high-performance user experiences. The project follows best practices in TypeScript, ESLint, and React development.
 
 ## 🚀 Features
 - ⚡ **Vite-powered development** for fast builds and hot module replacement.
-- 🎯 **React 19** with modern hooks and optimized rendering.
+- 🎯 **React 18** with modern hooks and optimized rendering.
 - 🛠️ **TypeScript support** for type safety and maintainability.
 - ✅ **ESLint and Prettier** for consistent code quality.
 - 🔥 **React Hooks and React Refresh** for smooth development.
@@ -44,12 +44,11 @@ npm run lint
 ```
 
 ## 🏗️ Tech Stack
-- **React 19** ⚛️
-- **Vite 6** 🚀
+- **React 18** ⚛️
+- **Vite ** 🚀
 - **TypeScript** 📘
 - **ESLint & TypeScript-ESLint** ✨
 
-## 🔧 Development Tools
 | Dependency | Version |
 |------------|---------|
 | React | ^19.0.0 |
